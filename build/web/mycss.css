@@ -1,0 +1,9 @@
+body {
+    padding-top: 140px;
+    background-color: #ffffff;
+    text-align: center;
+    background-image: url("chair.jpg");
+}
+.pic img{
+    width: 99%;
+}
