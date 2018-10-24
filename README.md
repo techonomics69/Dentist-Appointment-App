@@ -1,4 +1,4 @@
-## Dentist-Scheduling-Appointment-WebApp
+## Dentist-Scheduling-Appointment-Java-WebApp
 This is an entreprise level Dentist java application to view, edit and schedule denitist appointments.
 
  #### The client will be able to:
