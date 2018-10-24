@@ -1,12 +1,12 @@
 ## Dentist-Scheduling-Appointment-WebApp
 This is an entreprise level Dentist java application to view, edit and schedule denitist appointments.
 
-The client will be able to:
+ #### The client will be able to:
 - Log in with their customer id number to view appointments.
 - Make an appointment if they do not have one. 
 - Edit personal information. 
 
-The dentist can:
+#### The dentist will be able to:
 - Log on to view all scheduled appoints 
 - Edit his or her personal information.
 
