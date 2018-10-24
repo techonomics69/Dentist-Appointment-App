@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 /***
-     * 
+      *  Author     : Levi Llewellyn
      * This class is the business object for the patients
      ***/
 public class Patients {
@@ -203,9 +203,7 @@ public class Patients {
         p2.display();
         
     }
-  
-        
-  
+
         //p1.getpatid();
        
 }

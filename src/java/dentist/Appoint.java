@@ -1,4 +1,6 @@
-
+/*
+ *  Author     : Levi Llewellyn
+ */
 package dentist;
 
 import java.sql.Connection;
@@ -52,6 +54,7 @@ public class Appoint {
         return procode;
     }
     
+    // The display method
     public void display(){
         
         System.out.println("The appointment time is "+apptime);

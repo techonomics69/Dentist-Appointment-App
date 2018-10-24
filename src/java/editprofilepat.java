@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *  Author     : Levi Llewellyn
  */
 
 import dentist.Patients;
@@ -34,6 +32,7 @@ public class editprofilepat extends HttpServlet {
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
 
+        // Pulling the patient object from session
         Patients pt;
         HttpSession session = request.getSession();
         pt = (Patients) session.getAttribute("pt");
@@ -65,6 +64,7 @@ public class editprofilepat extends HttpServlet {
         pt.setpatinsco(in);
         pt.updateDB();
 
+        
         session.setAttribute("pt", pt);
 
         RequestDispatcher rd = request.getRequestDispatcher("PatDisp.jsp");

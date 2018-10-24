@@ -1,3 +1,4 @@
+
 package dentist;
 
 import java.sql.Connection;
@@ -7,7 +8,7 @@ import java.sql.Statement;
 
 /**
  * *
- *
+ *  Author     : Levi Llewellyn
  * This is the dentist business object class
      **
  */

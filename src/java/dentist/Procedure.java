@@ -1,4 +1,6 @@
-
+/*
+ *  Author     : Levi Llewellyn
+ */
 package dentist;
 
 import java.sql.Connection;

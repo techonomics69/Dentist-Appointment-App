@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package dentist;
 
 import java.io.IOException;
@@ -16,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- *
+  *  Author     : Levi Llewellyn.
  * The is the servlet the the patient login
  */
 @WebServlet(name = "logservletp", urlPatterns = {"/logservletp"})
@@ -46,6 +42,7 @@ public class logservletp extends HttpServlet {
         
             HttpSession ses1;
         ses1 = request.getSession();
+        
         //setting the object in session
         ses1.setAttribute("pt", pt);
         
