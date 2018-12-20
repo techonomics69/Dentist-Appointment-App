@@ -24,3 +24,4 @@ Entreprise level Dentist java application to view, edit and schedule denitist ap
 
 
 <img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentista.png?raw=true"/>
+<img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentistb.png?raw=true"/>
