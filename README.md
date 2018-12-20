@@ -22,6 +22,6 @@ Entreprise level Dentist java application to view, edit and schedule denitist ap
 - HTML to format the web pages
 - CSS for styling
 
-
-<img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentista.png?raw=true"/>
-<img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentistb.png?raw=true"/>
+<img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentistc.png?raw=true" width="75%" />
+<img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentista.png?raw=true" width ="75%" />
+<img src="https://github.com/kiaito/Dentist-Appointment-App/blob/master/Dentistb.png?raw=true" width ="75%" />
